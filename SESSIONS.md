@@ -105,4 +105,36 @@ git push origin main
 
 ---
 
+## Session 2 - December 16, 2025
+
+**Status**: CLOSED
+**Duration**: ~10 minutes
+
+**Goals**:
+1. Install project dependencies
+2. Understand workflow system
+3. Confirm session commands work
+
+**Completed**:
+- [x] Installed all dependencies (`npm install`) - 399 packages
+- [x] Reviewed package.json and tech stack
+- [x] Confirmed workflow commands (START SESSION / CLOSE SESSION) are working
+- [x] Verified repository is correctly linked to rise1one/Olosoma-Webpage
+
+**Files Changed**:
+- `node_modules/` (created) - Dependencies installed
+- `package-lock.json` (created/updated) - Lock file
+
+**Notes**:
+- Some npm deprecation warnings (eslint-related) - not a concern for production
+- 5 vulnerabilities reported (dev dependencies only, not security risk)
+- Site ready to run with `npm run dev`
+
+**Next Steps**:
+- [ ] Run dev server and view current site
+- [ ] Decide what edits/improvements to make
+- [ ] Begin development work
+
+---
+
 *Last Updated: December 16, 2025*

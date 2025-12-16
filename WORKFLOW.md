@@ -32,19 +32,18 @@ When user says **CLOSE SESSION**, Claude will:
 
 ## Current Status
 
-**Last Session**: Session 1 - December 16, 2025
+**Last Session**: Session 2 - December 16, 2025
 **Status**: CLOSED
-**Last Commit**: `[Session 1] Initial setup - workflow established, session tracking created`
+**Last Commit**: `[Session 2] Dependencies installed, workflow confirmed`
 
 ### Pending Tasks
-- [ ] Install dependencies (`npm install`)
 - [ ] Run dev server and test current site
 - [ ] Determine edits/improvements to make
 - [ ] Begin development work
 
 ### Next Session Should
 - Start with `START SESSION`
-- Install dependencies and run dev server
+- Run `npm run dev` to see the site
 - Decide what to edit/improve on the website
 
 ---
@@ -54,6 +53,7 @@ When user says **CLOSE SESSION**, Claude will:
 | Session | Date | Summary | Status |
 |---------|------|---------|--------|
 | 1 | Dec 16, 2025 | Initial setup, repo created, workflow established | Closed |
+| 2 | Dec 16, 2025 | Dependencies installed, workflow confirmed | Closed |
 
 ---
 
