@@ -34,17 +34,18 @@ When user says **CLOSE SESSION**, Claude will:
 
 **Last Session**: Session 1 - December 16, 2025
 **Status**: CLOSED
-**Last Commit**: Initial setup - repository created, workflow established
+**Last Commit**: `[Session 1] Initial setup - workflow established, session tracking created`
 
 ### Pending Tasks
+- [ ] Install dependencies (`npm install`)
 - [ ] Run dev server and test current site
 - [ ] Determine edits/improvements to make
 - [ ] Begin development work
 
 ### Next Session Should
 - Start with `START SESSION`
-- Review what needs to be done
-- Continue development work
+- Install dependencies and run dev server
+- Decide what to edit/improve on the website
 
 ---
 
